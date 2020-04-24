@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'myFont';
+    src: url('../font/kongtext.ttf');
+}
+
+* {
+    font-family: myFont;
+}
+
+/* Header */
+.header-img {
+    width: 200px;
+    display: block;
+    margin: auto;
+}
